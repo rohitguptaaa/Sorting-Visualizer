@@ -43,28 +43,45 @@ This project helps in understanding sorting logic through animations, comparison
 ### Steps
 1. Clone the repository:
 
-   git clone https://github.com/your-username/your-repo-name.git
+   *Command->*  git clone https://github.com/your-username/your-repo-name.git
    
 2. Navigate to the project folder:
 
-   cd your-repo-name
+   *Command->* cd your-repo-name
    
 3. Compile the file:
 
-   javac Sort.java
+   *Command->* javac Sort.java
 
 4. Run the program:
 
-   java Sort
+   *Command->* java Sort
    
 
-🎯Purpose of the Project
+
+## 🎯Purpose of the Project
 
 This project was built to:
 
 -> Strengthen understanding of sorting algorithms
+
 -> Learn Java Swing and event-driven programming
+
 -> Visualize algorithm behavior instead of just theoretical learning
 
-📸 Preview
+## 📸 Preview
 
+*Output screenshots:*
+
+<img width="1918" height="1020" alt="First bars" src="https://github.com/user-attachments/assets/140f806f-d2e5-47be-a24c-53a6beac717c" />
+
+
+<img width="1919" height="1019" alt="Second bars" src="https://github.com/user-attachments/assets/daf3bb44-32ae-455d-a8b8-ecbc335da586" />
+
+
+<img width="1919" height="1019" alt="Third bars" src="https://github.com/user-attachments/assets/4ce751c6-d9c0-4af1-9743-4a503876c00e" />
+
+
+## 📌 Conclusion
+
+This project demonstrates the working of sorting algorithms using a Java-based visualizer with interactive controls and real-time animations. It helps in understanding algorithm behavior and time complexity in an intuitive way.
